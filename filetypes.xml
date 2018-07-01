@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Storages" type="CLASS" />
+      <mapping pattern="Dockerfile" type="Native" />
+      <mapping ext="avsc" type="PLAIN_TEXT" />
+      <mapping ext="avro" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
